@@ -1,0 +1,9 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\BitSwap\bin\Debug\BitSwap.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\BitSwap\bin\Debug\BitSwap.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\BitSwap\bin\Debug\BitSwap.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\BitSwap\obj\Debug\BitSwap.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\BitSwap\obj\Debug\BitSwap.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\BitSwap\obj\Debug\BitSwap.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\BitSwap\bin\Debug\BitSwap.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\BitSwap\obj\Debug\BitSwap.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\BitSwap\obj\Debug\BitSwap.pdb

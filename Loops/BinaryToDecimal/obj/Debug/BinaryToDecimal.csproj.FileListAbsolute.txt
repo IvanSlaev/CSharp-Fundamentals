@@ -1,0 +1,6 @@
+D:\Dropbox\VS C# projects\Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+D:\Dropbox\VS C# projects\Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+D:\Dropbox\VS C# projects\Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+D:\Dropbox\VS C# projects\Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+D:\Dropbox\VS C# projects\Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

@@ -1,0 +1,6 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\SpeedingCar\bin\Debug\SpeedingCar.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\SpeedingCar\bin\Debug\SpeedingCar.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\SpeedingCar\bin\Debug\SpeedingCar.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\SpeedingCar\obj\Debug\SpeedingCar.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\SpeedingCar\obj\Debug\SpeedingCar.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\SpeedingCar\obj\Debug\SpeedingCar.pdb

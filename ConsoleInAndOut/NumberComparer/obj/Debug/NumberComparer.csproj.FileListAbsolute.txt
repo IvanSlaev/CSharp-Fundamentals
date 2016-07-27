@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\ConsoleInAndOut\NumberComparer\bin\Debug\NumberComparer.exe.config
+E:\Dropbox\VS C# projects\ConsoleInAndOut\NumberComparer\bin\Debug\NumberComparer.exe
+E:\Dropbox\VS C# projects\ConsoleInAndOut\NumberComparer\bin\Debug\NumberComparer.pdb
+E:\Dropbox\VS C# projects\ConsoleInAndOut\NumberComparer\obj\Debug\NumberComparer.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\ConsoleInAndOut\NumberComparer\obj\Debug\NumberComparer.exe
+E:\Dropbox\VS C# projects\ConsoleInAndOut\NumberComparer\obj\Debug\NumberComparer.pdb

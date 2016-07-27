@@ -1,0 +1,12 @@
+D:\Dropbox\VS C# projects\Loops\HexToDecimal\bin\Debug\HexToDecimal.exe.config
+D:\Dropbox\VS C# projects\Loops\HexToDecimal\bin\Debug\HexToDecimal.exe
+D:\Dropbox\VS C# projects\Loops\HexToDecimal\bin\Debug\HexToDecimal.pdb
+D:\Dropbox\VS C# projects\Loops\HexToDecimal\obj\Debug\HexToDecimal.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\Loops\HexToDecimal\obj\Debug\HexToDecimal.exe
+D:\Dropbox\VS C# projects\Loops\HexToDecimal\obj\Debug\HexToDecimal.pdb
+E:\Dropbox\VS C# projects\Loops\HexToDecimal\bin\Debug\HexToDecimal.exe.config
+E:\Dropbox\VS C# projects\Loops\HexToDecimal\obj\Debug\HexToDecimal.exe
+E:\Dropbox\VS C# projects\Loops\HexToDecimal\obj\Debug\HexToDecimal.pdb
+E:\Dropbox\VS C# projects\CSharp Fundamentals\Loops\HexToDecimal\bin\Debug\HexToDecimal.exe.config
+E:\Dropbox\VS C# projects\CSharp Fundamentals\Loops\HexToDecimal\obj\Debug\HexToDecimal.exe
+E:\Dropbox\VS C# projects\CSharp Fundamentals\Loops\HexToDecimal\obj\Debug\HexToDecimal.pdb

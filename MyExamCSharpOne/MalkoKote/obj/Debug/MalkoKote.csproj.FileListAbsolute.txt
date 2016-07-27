@@ -1,0 +1,6 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\MalkoKote\bin\Debug\MalkoKote.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\MalkoKote\bin\Debug\MalkoKote.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\MalkoKote\bin\Debug\MalkoKote.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\MalkoKote\obj\Debug\MalkoKote.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\MalkoKote\obj\Debug\MalkoKote.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\MalkoKote\obj\Debug\MalkoKote.pdb

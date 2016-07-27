@@ -1,0 +1,6 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\CSAdvancedExam1\CSAdvancedExam1\bin\Debug\CSAdvancedExam1.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\CSAdvancedExam1\CSAdvancedExam1\bin\Debug\CSAdvancedExam1.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\CSAdvancedExam1\CSAdvancedExam1\bin\Debug\CSAdvancedExam1.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\CSAdvancedExam1\CSAdvancedExam1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\CSAdvancedExam1\CSAdvancedExam1\obj\Debug\CSAdvancedExam1.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\CSAdvancedExam1\CSAdvancedExam1\obj\Debug\CSAdvancedExam1.pdb

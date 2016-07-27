@@ -1,0 +1,6 @@
+D:\Dropbox\VS C# projects\Loops\PrintADeckWithUsingChars\bin\Debug\PrintADeckWithUsingChars.exe.config
+D:\Dropbox\VS C# projects\Loops\PrintADeckWithUsingChars\bin\Debug\PrintADeckWithUsingChars.exe
+D:\Dropbox\VS C# projects\Loops\PrintADeckWithUsingChars\bin\Debug\PrintADeckWithUsingChars.pdb
+D:\Dropbox\VS C# projects\Loops\PrintADeckWithUsingChars\obj\Debug\PrintADeckWithUsingChars.exe
+D:\Dropbox\VS C# projects\Loops\PrintADeckWithUsingChars\obj\Debug\PrintADeckWithUsingChars.pdb
+D:\Dropbox\VS C# projects\Loops\PrintADeckWithUsingChars\obj\Debug\PrintADeckWithUsingChars.csprojResolveAssemblyReference.cache

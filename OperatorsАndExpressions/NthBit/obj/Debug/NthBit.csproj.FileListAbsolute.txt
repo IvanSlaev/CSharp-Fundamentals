@@ -1,0 +1,12 @@
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\NthBit\bin\Debug\NthBit.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\NthBit\bin\Debug\NthBit.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\NthBit\bin\Debug\NthBit.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\NthBit\obj\Debug\NthBit.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\NthBit\obj\Debug\NthBit.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\NthBit\obj\Debug\NthBit.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\NthBit\bin\Debug\NthBit.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\NthBit\bin\Debug\NthBit.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\NthBit\bin\Debug\NthBit.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\NthBit\obj\Debug\NthBit.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\NthBit\obj\Debug\NthBit.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\NthBit\obj\Debug\NthBit.pdb

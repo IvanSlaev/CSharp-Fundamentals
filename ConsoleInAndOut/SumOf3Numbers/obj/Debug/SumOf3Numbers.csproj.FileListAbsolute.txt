@@ -1,0 +1,9 @@
+D:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe.config
+D:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe
+D:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf3Numbers\bin\Debug\SumOf3Numbers.pdb
+D:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf3Numbers\obj\Debug\SumOf3Numbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf3Numbers\obj\Debug\SumOf3Numbers.exe
+D:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf3Numbers\obj\Debug\SumOf3Numbers.pdb
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe.config
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf3Numbers\obj\Debug\SumOf3Numbers.exe
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf3Numbers\obj\Debug\SumOf3Numbers.pdb

@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\ConsoleInAndOut\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+E:\Dropbox\VS C# projects\ConsoleInAndOut\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+E:\Dropbox\VS C# projects\ConsoleInAndOut\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+E:\Dropbox\VS C# projects\ConsoleInAndOut\QuadraticEquation\obj\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\ConsoleInAndOut\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+E:\Dropbox\VS C# projects\ConsoleInAndOut\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

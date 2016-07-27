@@ -1,0 +1,5 @@
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf5Numbers\bin\Debug\SumOf5Numbers.pdb
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb

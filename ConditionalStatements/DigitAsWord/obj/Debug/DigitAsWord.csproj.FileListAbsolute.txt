@@ -1,0 +1,9 @@
+D:\Dropbox\VS C# projects\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+D:\Dropbox\VS C# projects\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe
+D:\Dropbox\VS C# projects\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.pdb
+D:\Dropbox\VS C# projects\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.exe
+D:\Dropbox\VS C# projects\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.pdb
+E:\Dropbox\VS C# projects\CSharp Fundamentals\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+E:\Dropbox\VS C# projects\CSharp Fundamentals\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.exe
+E:\Dropbox\VS C# projects\CSharp Fundamentals\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.pdb

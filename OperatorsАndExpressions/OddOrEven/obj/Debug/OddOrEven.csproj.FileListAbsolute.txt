@@ -1,0 +1,15 @@
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\bin\Debug\OddOrEven.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\bin\Debug\OddOrEven.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\bin\Debug\OddOrEven.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\obj\Debug\OddOrEven.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\obj\Debug\OddOrEven.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\obj\Debug\OddOrEven.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\obj\Debug\OddOrEven.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\bin\Debug\OddOrEven.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\bin\Debug\OddOrEven.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\OddOrEven\obj\Debug\OddOrEven.pdb

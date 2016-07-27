@@ -1,0 +1,15 @@
+E:\Dropbox\VS C# projects\Loops\MatrixOfNumbersWithOneLoop\bin\Debug\MatrixOfNumbersWithOneLoop.exe.config
+E:\Dropbox\VS C# projects\Loops\MatrixOfNumbersWithOneLoop\bin\Debug\MatrixOfNumbersWithOneLoop.exe
+E:\Dropbox\VS C# projects\Loops\MatrixOfNumbersWithOneLoop\bin\Debug\MatrixOfNumbersWithOneLoop.pdb
+E:\Dropbox\VS C# projects\Loops\MatrixOfNumbersWithOneLoop\obj\Debug\MatrixOfNumbersWithOneLoop.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\Loops\MatrixOfNumbersWithOneLoop\obj\Debug\MatrixOfNumbersWithOneLoop.exe
+E:\Dropbox\VS C# projects\Loops\MatrixOfNumbersWithOneLoop\obj\Debug\MatrixOfNumbersWithOneLoop.pdb
+D:\Dropbox\VS C# projects\Loops\MatrixOfNumbersWithOneLoop\bin\Debug\MatrixOfNumbersWithOneLoop.exe.config
+D:\Dropbox\VS C# projects\Loops\MatrixOfNumbersWithOneLoop\obj\Debug\MatrixOfNumbersWithOneLoop.exe
+D:\Dropbox\VS C# projects\Loops\MatrixOfNumbersWithOneLoop\obj\Debug\MatrixOfNumbersWithOneLoop.pdb
+E:\Dropbox\VS C# projects\CSharp Fundamentals\Loops\MatrixOfNumbersWithOneLoop\bin\Debug\MatrixOfNumbersWithOneLoop.exe.config
+E:\Dropbox\VS C# projects\CSharp Fundamentals\Loops\MatrixOfNumbersWithOneLoop\obj\Debug\MatrixOfNumbersWithOneLoop.exe
+E:\Dropbox\VS C# projects\CSharp Fundamentals\Loops\MatrixOfNumbersWithOneLoop\obj\Debug\MatrixOfNumbersWithOneLoop.pdb
+E:\Dropbox\VS C# projects\CSharp Fundamentals\Loops\MatrixOfNumbersWithOneLoop\bin\Debug\MatrixOfNumbersWithOneLoop.exe
+E:\Dropbox\VS C# projects\CSharp Fundamentals\Loops\MatrixOfNumbersWithOneLoop\bin\Debug\MatrixOfNumbersWithOneLoop.pdb
+E:\Dropbox\VS C# projects\CSharp Fundamentals\Loops\MatrixOfNumbersWithOneLoop\obj\Debug\MatrixOfNumbersWithOneLoop.csprojResolveAssemblyReference.cache

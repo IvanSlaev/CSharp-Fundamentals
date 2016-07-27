@@ -1,0 +1,6 @@
+D:\Dropbox\VS C# projects\ConsoleInAndOut\Interval\bin\Debug\Interval.exe.config
+D:\Dropbox\VS C# projects\ConsoleInAndOut\Interval\bin\Debug\Interval.exe
+D:\Dropbox\VS C# projects\ConsoleInAndOut\Interval\bin\Debug\Interval.pdb
+D:\Dropbox\VS C# projects\ConsoleInAndOut\Interval\obj\Debug\Interval.exe
+D:\Dropbox\VS C# projects\ConsoleInAndOut\Interval\obj\Debug\Interval.pdb
+D:\Dropbox\VS C# projects\ConsoleInAndOut\Interval\obj\Debug\Interval.csprojResolveAssemblyReference.cache

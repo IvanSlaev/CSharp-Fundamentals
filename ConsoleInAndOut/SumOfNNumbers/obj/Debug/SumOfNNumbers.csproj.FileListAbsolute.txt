@@ -1,0 +1,5 @@
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe.config
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOfNNumbers\bin\Debug\SumOfNNumbers.pdb
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOfNNumbers\obj\Debug\SumOfNNumbers.exe
+E:\Dropbox\VS C# projects\ConsoleInAndOut\SumOfNNumbers\obj\Debug\SumOfNNumbers.pdb

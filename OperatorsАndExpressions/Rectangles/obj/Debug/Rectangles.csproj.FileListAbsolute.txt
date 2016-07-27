@@ -1,0 +1,10 @@
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\Rectangles\bin\Debug\Rectangles.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\Rectangles\bin\Debug\Rectangles.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\Rectangles\bin\Debug\Rectangles.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\Rectangles\obj\Debug\Rectangles.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\Rectangles\obj\Debug\Rectangles.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\Rectangles\bin\Debug\Rectangles.exe.config
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\Rectangles\bin\Debug\Rectangles.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\Rectangles\bin\Debug\Rectangles.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\Rectangles\obj\Debug\Rectangles.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\Rectangles\obj\Debug\Rectangles.pdb

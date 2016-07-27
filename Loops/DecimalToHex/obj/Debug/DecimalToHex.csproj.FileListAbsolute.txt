@@ -1,0 +1,6 @@
+D:\Dropbox\VS C# projects\Loops\DecimalToHex\bin\Debug\DecimalToHex.exe.config
+D:\Dropbox\VS C# projects\Loops\DecimalToHex\bin\Debug\DecimalToHex.exe
+D:\Dropbox\VS C# projects\Loops\DecimalToHex\bin\Debug\DecimalToHex.pdb
+D:\Dropbox\VS C# projects\Loops\DecimalToHex\obj\Debug\DecimalToHex.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\Loops\DecimalToHex\obj\Debug\DecimalToHex.exe
+D:\Dropbox\VS C# projects\Loops\DecimalToHex\obj\Debug\DecimalToHex.pdb

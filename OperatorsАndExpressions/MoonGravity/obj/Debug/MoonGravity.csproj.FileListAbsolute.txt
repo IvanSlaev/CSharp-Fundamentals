@@ -1,0 +1,11 @@
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\MoonGravity\bin\Debug\MoonGravity.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\MoonGravity\bin\Debug\MoonGravity.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\MoonGravity\bin\Debug\MoonGravity.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\MoonGravity\obj\Debug\MoonGravity.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\MoonGravity\obj\Debug\MoonGravity.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\MoonGravity\bin\Debug\MoonGravity.exe.config
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\MoonGravity\bin\Debug\MoonGravity.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\MoonGravity\bin\Debug\MoonGravity.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\MoonGravity\obj\Debug\MoonGravity.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\MoonGravity\obj\Debug\MoonGravity.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\MoonGravity\obj\Debug\MoonGravity.pdb

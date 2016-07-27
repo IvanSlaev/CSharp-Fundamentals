@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\Loops\TrailingZeroInN\bin\Debug\TrailingZeroInN.exe.config
+E:\Dropbox\VS C# projects\Loops\TrailingZeroInN\bin\Debug\TrailingZeroInN.exe
+E:\Dropbox\VS C# projects\Loops\TrailingZeroInN\bin\Debug\TrailingZeroInN.pdb
+E:\Dropbox\VS C# projects\Loops\TrailingZeroInN\obj\Debug\TrailingZeroInN.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\Loops\TrailingZeroInN\obj\Debug\TrailingZeroInN.exe
+E:\Dropbox\VS C# projects\Loops\TrailingZeroInN\obj\Debug\TrailingZeroInN.pdb

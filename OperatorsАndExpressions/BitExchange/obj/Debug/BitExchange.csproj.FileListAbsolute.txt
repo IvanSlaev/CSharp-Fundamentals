@@ -1,0 +1,15 @@
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\bin\Debug\BitExchange.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\bin\Debug\BitExchange.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\bin\Debug\BitExchange.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\obj\Debug\BitExchange.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\obj\Debug\BitExchange.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\obj\Debug\BitExchange.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\bin\Debug\BitExchange.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\obj\Debug\BitExchange.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\obj\Debug\BitExchange.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\bin\Debug\BitExchange.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\bin\Debug\BitExchange.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\obj\Debug\BitExchange.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\bin\Debug\BitExchange.exe.config
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\obj\Debug\BitExchange.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\BitExchange\obj\Debug\BitExchange.pdb

@@ -1,0 +1,1 @@
+E:\Dropbox\VS C# projects\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config

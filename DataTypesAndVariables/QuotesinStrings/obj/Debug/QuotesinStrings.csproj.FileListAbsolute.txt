@@ -1,0 +1,6 @@
+D:\Dropbox\VS C# projects\DataTypesAndVariables\QuotesinStrings\bin\Debug\QuotesinStrings.exe.config
+D:\Dropbox\VS C# projects\DataTypesAndVariables\QuotesinStrings\bin\Debug\QuotesinStrings.exe
+D:\Dropbox\VS C# projects\DataTypesAndVariables\QuotesinStrings\bin\Debug\QuotesinStrings.pdb
+D:\Dropbox\VS C# projects\DataTypesAndVariables\QuotesinStrings\obj\Debug\QuotesinStrings.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\DataTypesAndVariables\QuotesinStrings\obj\Debug\QuotesinStrings.exe
+D:\Dropbox\VS C# projects\DataTypesAndVariables\QuotesinStrings\obj\Debug\QuotesinStrings.pdb

@@ -1,0 +1,5 @@
+E:\Dropbox\VS C# projects\Loops\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe.config
+E:\Dropbox\VS C# projects\Loops\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe
+E:\Dropbox\VS C# projects\Loops\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.pdb
+E:\Dropbox\VS C# projects\Loops\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.exe
+E:\Dropbox\VS C# projects\Loops\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.pdb

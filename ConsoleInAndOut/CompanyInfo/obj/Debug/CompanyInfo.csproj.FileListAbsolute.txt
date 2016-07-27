@@ -1,0 +1,5 @@
+D:\Dropbox\VS C# projects\ConsoleInAndOut\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+D:\Dropbox\VS C# projects\ConsoleInAndOut\CompanyInfo\bin\Debug\CompanyInfo.exe
+D:\Dropbox\VS C# projects\ConsoleInAndOut\CompanyInfo\bin\Debug\CompanyInfo.pdb
+D:\Dropbox\VS C# projects\ConsoleInAndOut\CompanyInfo\obj\Debug\CompanyInfo.exe
+D:\Dropbox\VS C# projects\ConsoleInAndOut\CompanyInfo\obj\Debug\CompanyInfo.pdb

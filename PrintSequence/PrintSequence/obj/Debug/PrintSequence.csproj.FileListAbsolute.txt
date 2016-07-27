@@ -1,0 +1,8 @@
+D:\Dropbox\VS C# projects\PrintSequence\PrintSequence\bin\Debug\PrintSequence.exe.config
+D:\Dropbox\VS C# projects\PrintSequence\PrintSequence\bin\Debug\PrintSequence.exe
+D:\Dropbox\VS C# projects\PrintSequence\PrintSequence\bin\Debug\PrintSequence.pdb
+D:\Dropbox\VS C# projects\PrintSequence\PrintSequence\obj\Debug\PrintSequence.exe
+D:\Dropbox\VS C# projects\PrintSequence\PrintSequence\obj\Debug\PrintSequence.pdb
+E:\Dropbox\VS C# projects\PrintSequence\PrintSequence\bin\Debug\PrintSequence.exe.config
+E:\Dropbox\VS C# projects\PrintSequence\PrintSequence\obj\Debug\PrintSequence.exe
+E:\Dropbox\VS C# projects\PrintSequence\PrintSequence\obj\Debug\PrintSequence.pdb

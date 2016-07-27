@@ -1,0 +1,13 @@
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\bin\Debug\ThirdDigit2.exe.config
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\bin\Debug\ThirdDigit2.exe.config
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\bin\Debug\ThirdDigit2.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\bin\Debug\ThirdDigit2.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\obj\Debug\ThirdDigit2.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\obj\Debug\ThirdDigit2.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\obj\Debug\ThirdDigit2.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\bin\Debug\ThirdDigit2.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\obj\Debug\ThirdDigit2.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\obj\Debug\ThirdDigit2.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\bin\Debug\ThirdDigit2.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\bin\Debug\ThirdDigit2.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit2\obj\Debug\ThirdDigit2.csprojResolveAssemblyReference.cache

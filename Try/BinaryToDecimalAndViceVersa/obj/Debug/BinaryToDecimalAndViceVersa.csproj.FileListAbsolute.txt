@@ -1,0 +1,12 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Try\BinaryToDecimalAndViceVersa\bin\Debug\BinaryToDecimalAndViceVersa.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Try\BinaryToDecimalAndViceVersa\bin\Debug\BinaryToDecimalAndViceVersa.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Try\BinaryToDecimalAndViceVersa\bin\Debug\BinaryToDecimalAndViceVersa.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Try\BinaryToDecimalAndViceVersa\obj\Debug\BinaryToDecimalAndViceVersa.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Try\BinaryToDecimalAndViceVersa\obj\Debug\BinaryToDecimalAndViceVersa.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Try\BinaryToDecimalAndViceVersa\obj\Debug\BinaryToDecimalAndViceVersa.pdb
+E:\Dropbox\VS C# projects\Try\BinaryToDecimalAndViceVersa\bin\Debug\BinaryToDecimalAndViceVersa.exe.config
+E:\Dropbox\VS C# projects\Try\BinaryToDecimalAndViceVersa\obj\Debug\BinaryToDecimalAndViceVersa.exe
+E:\Dropbox\VS C# projects\Try\BinaryToDecimalAndViceVersa\obj\Debug\BinaryToDecimalAndViceVersa.pdb
+E:\Dropbox\VS C# projects\Try\BinaryToDecimalAndViceVersa\bin\Debug\BinaryToDecimalAndViceVersa.exe
+E:\Dropbox\VS C# projects\Try\BinaryToDecimalAndViceVersa\bin\Debug\BinaryToDecimalAndViceVersa.pdb
+E:\Dropbox\VS C# projects\Try\BinaryToDecimalAndViceVersa\obj\Debug\BinaryToDecimalAndViceVersa.csprojResolveAssemblyReference.cache

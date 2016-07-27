@@ -1,0 +1,6 @@
+D:\Dropbox\VS C# projects\Exam12015\Cube\bin\Debug\Cube.exe.config
+D:\Dropbox\VS C# projects\Exam12015\Cube\bin\Debug\Cube.exe
+D:\Dropbox\VS C# projects\Exam12015\Cube\bin\Debug\Cube.pdb
+D:\Dropbox\VS C# projects\Exam12015\Cube\obj\Debug\Cube.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\Exam12015\Cube\obj\Debug\Cube.exe
+D:\Dropbox\VS C# projects\Exam12015\Cube\obj\Debug\Cube.pdb

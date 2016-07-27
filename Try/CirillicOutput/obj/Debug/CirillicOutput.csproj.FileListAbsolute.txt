@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\Try\CirillicOutput\bin\Debug\CirillicOutput.exe.config
+E:\Dropbox\VS C# projects\Try\CirillicOutput\bin\Debug\CirillicOutput.exe
+E:\Dropbox\VS C# projects\Try\CirillicOutput\bin\Debug\CirillicOutput.pdb
+E:\Dropbox\VS C# projects\Try\CirillicOutput\obj\Debug\CirillicOutput.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\Try\CirillicOutput\obj\Debug\CirillicOutput.exe
+E:\Dropbox\VS C# projects\Try\CirillicOutput\obj\Debug\CirillicOutput.pdb

@@ -1,0 +1,15 @@
+D:\Dropbox\VS C# projects\Loops\Calculate\bin\Debug\Calculate.exe.config
+D:\Dropbox\VS C# projects\Loops\Calculate\bin\Debug\Calculate.exe
+D:\Dropbox\VS C# projects\Loops\Calculate\bin\Debug\Calculate.pdb
+D:\Dropbox\VS C# projects\Loops\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\Loops\Calculate\obj\Debug\Calculate.exe
+D:\Dropbox\VS C# projects\Loops\Calculate\obj\Debug\Calculate.pdb
+E:\Dropbox\VS C# projects\Loops\Calculate\bin\Debug\Calculate.exe.config
+E:\Dropbox\VS C# projects\Loops\Calculate\obj\Debug\Calculate.exe
+E:\Dropbox\VS C# projects\Loops\Calculate\obj\Debug\Calculate.pdb
+E:\Dropbox\VS C# projects\Loops\Calculate\bin\Debug\Calculate.exe
+E:\Dropbox\VS C# projects\Loops\Calculate\bin\Debug\Calculate.pdb
+E:\Dropbox\VS C# projects\Loops\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Loops\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Loops\Calculate\obj\Debug\Calculate.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\Loops\Calculate\obj\Debug\Calculate.pdb

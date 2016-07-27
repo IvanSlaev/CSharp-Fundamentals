@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+E:\Dropbox\VS C# projects\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+E:\Dropbox\VS C# projects\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+E:\Dropbox\VS C# projects\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+E:\Dropbox\VS C# projects\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

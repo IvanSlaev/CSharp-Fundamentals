@@ -1,0 +1,6 @@
+D:\Dropbox\VS C# projects\DataTypesAndVariables\PrintТheASCIITable\bin\Debug\PrintТheASCIITable.exe.config
+D:\Dropbox\VS C# projects\DataTypesAndVariables\PrintТheASCIITable\bin\Debug\PrintТheASCIITable.exe
+D:\Dropbox\VS C# projects\DataTypesAndVariables\PrintТheASCIITable\bin\Debug\PrintТheASCIITable.pdb
+D:\Dropbox\VS C# projects\DataTypesAndVariables\PrintТheASCIITable\obj\Debug\PrintТheASCIITable.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\DataTypesAndVariables\PrintТheASCIITable\obj\Debug\PrintТheASCIITable.exe
+D:\Dropbox\VS C# projects\DataTypesAndVariables\PrintТheASCIITable\obj\Debug\PrintТheASCIITable.pdb

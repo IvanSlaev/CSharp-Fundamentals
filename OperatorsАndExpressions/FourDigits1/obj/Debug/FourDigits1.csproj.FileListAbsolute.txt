@@ -1,0 +1,8 @@
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits1\bin\Debug\FourDigits1.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits1\bin\Debug\FourDigits1.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits1\bin\Debug\FourDigits1.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits1\bin\Debug\FourDigits1.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits1\bin\Debug\FourDigits1.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits1\obj\Debug\FourDigits1.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits1\obj\Debug\FourDigits1.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits1\obj\Debug\FourDigits1.pdb

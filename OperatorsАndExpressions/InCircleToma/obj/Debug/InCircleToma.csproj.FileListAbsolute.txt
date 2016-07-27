@@ -1,0 +1,5 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\InCircleToma\bin\Debug\InCircleToma.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\InCircleToma\bin\Debug\InCircleToma.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\InCircleToma\bin\Debug\InCircleToma.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\InCircleToma\obj\Debug\InCircleToma.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\InCircleToma\obj\Debug\InCircleToma.pdb

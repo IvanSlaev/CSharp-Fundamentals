@@ -1,0 +1,12 @@
+E:\Dropbox\VS C# projects\Loops\MMSAOfNNumbers\bin\Debug\MMSAOfNNumbers.exe.config
+E:\Dropbox\VS C# projects\Loops\MMSAOfNNumbers\bin\Debug\MMSAOfNNumbers.exe
+E:\Dropbox\VS C# projects\Loops\MMSAOfNNumbers\bin\Debug\MMSAOfNNumbers.pdb
+E:\Dropbox\VS C# projects\Loops\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\Loops\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.exe
+E:\Dropbox\VS C# projects\Loops\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.pdb
+D:\Dropbox\VS C# projects\Loops\MMSAOfNNumbers\bin\Debug\MMSAOfNNumbers.exe.config
+D:\Dropbox\VS C# projects\Loops\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.exe
+D:\Dropbox\VS C# projects\Loops\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.pdb
+D:\Dropbox\VS C# projects\Loops\MMSAOfNNumbers\bin\Debug\MMSAOfNNumbers.exe
+D:\Dropbox\VS C# projects\Loops\MMSAOfNNumbers\bin\Debug\MMSAOfNNumbers.pdb
+D:\Dropbox\VS C# projects\Loops\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.csprojResolveAssemblyReference.cache

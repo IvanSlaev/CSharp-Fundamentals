@@ -1,0 +1,12 @@
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\PointInCircle\bin\Debug\PointInCircle.exe.config
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\PointInCircle\bin\Debug\PointInCircle.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\PointInCircle\bin\Debug\PointInCircle.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\PointInCircle\obj\Debug\PointInCircle.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\PointInCircle\obj\Debug\PointInCircle.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\PointInCircle\obj\Debug\PointInCircle.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PointInCircle\bin\Debug\PointInCircle.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PointInCircle\obj\Debug\PointInCircle.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PointInCircle\obj\Debug\PointInCircle.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\PointInCircle\bin\Debug\PointInCircle.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\PointInCircle\obj\Debug\PointInCircle.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\PointInCircle\obj\Debug\PointInCircle.pdb

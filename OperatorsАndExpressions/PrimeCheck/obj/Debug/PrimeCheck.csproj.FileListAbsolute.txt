@@ -1,0 +1,12 @@
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\PrimeCheck\bin\Debug\PrimeCheck.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\PrimeCheck\bin\Debug\PrimeCheck.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\PrimeCheck\obj\Debug\PrimeCheck.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\PrimeCheck\obj\Debug\PrimeCheck.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\PrimeCheck\obj\Debug\PrimeCheck.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PrimeCheck\obj\Debug\PrimeCheck.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PrimeCheck\obj\Debug\PrimeCheck.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PrimeCheck\bin\Debug\PrimeCheck.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PrimeCheck\bin\Debug\PrimeCheck.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PrimeCheck\obj\Debug\PrimeCheck.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Dropbox\VS C# projects\ConsoleInAndOut\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+E:\Dropbox\VS C# projects\ConsoleInAndOut\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+E:\Dropbox\VS C# projects\ConsoleInAndOut\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+E:\Dropbox\VS C# projects\ConsoleInAndOut\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+E:\Dropbox\VS C# projects\ConsoleInAndOut\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

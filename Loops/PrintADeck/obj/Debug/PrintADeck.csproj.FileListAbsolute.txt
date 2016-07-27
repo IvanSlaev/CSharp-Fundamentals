@@ -1,0 +1,6 @@
+D:\Dropbox\VS C# projects\Loops\PrintADeck\bin\Debug\PrintADeck.exe.config
+D:\Dropbox\VS C# projects\Loops\PrintADeck\bin\Debug\PrintADeck.exe
+D:\Dropbox\VS C# projects\Loops\PrintADeck\bin\Debug\PrintADeck.pdb
+D:\Dropbox\VS C# projects\Loops\PrintADeck\obj\Debug\PrintADeck.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\Loops\PrintADeck\obj\Debug\PrintADeck.exe
+D:\Dropbox\VS C# projects\Loops\PrintADeck\obj\Debug\PrintADeck.pdb

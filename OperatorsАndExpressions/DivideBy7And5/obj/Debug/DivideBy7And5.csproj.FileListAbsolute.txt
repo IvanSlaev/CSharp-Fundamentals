@@ -1,0 +1,11 @@
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Dropbox\VS C# projects\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Dropbox\VS C# projects\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe
+D:\Dropbox\VS C# projects\SquareRoot\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\Dropbox\VS C# projects\SquareRoot\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\SquareRoot\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Dropbox\VS C# projects\SquareRoot\SquareRoot\obj\Debug\SquareRoot.pdb
+E:\Dropbox\VS C# projects\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe.config
+E:\Dropbox\VS C# projects\SquareRoot\SquareRoot\obj\Debug\SquareRoot.exe
+E:\Dropbox\VS C# projects\SquareRoot\SquareRoot\obj\Debug\SquareRoot.pdb

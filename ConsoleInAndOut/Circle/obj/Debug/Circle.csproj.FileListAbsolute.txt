@@ -1,0 +1,8 @@
+D:\Dropbox\VS C# projects\ConsoleInAndOut\Circle\bin\Debug\Circle.exe.config
+D:\Dropbox\VS C# projects\ConsoleInAndOut\Circle\bin\Debug\Circle.exe
+D:\Dropbox\VS C# projects\ConsoleInAndOut\Circle\bin\Debug\Circle.pdb
+D:\Dropbox\VS C# projects\ConsoleInAndOut\Circle\obj\Debug\Circle.exe
+D:\Dropbox\VS C# projects\ConsoleInAndOut\Circle\obj\Debug\Circle.pdb
+E:\Dropbox\VS C# projects\ConsoleInAndOut\Circle\bin\Debug\Circle.exe.config
+E:\Dropbox\VS C# projects\ConsoleInAndOut\Circle\obj\Debug\Circle.exe
+E:\Dropbox\VS C# projects\ConsoleInAndOut\Circle\obj\Debug\Circle.pdb

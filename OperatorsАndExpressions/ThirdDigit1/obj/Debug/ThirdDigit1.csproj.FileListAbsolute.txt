@@ -1,0 +1,10 @@
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit1\bin\Debug\ThirdDigit1.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit1\bin\Debug\ThirdDigit1.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit1\bin\Debug\ThirdDigit1.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit1\obj\Debug\ThirdDigit1.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit1\obj\Debug\ThirdDigit1.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit1\bin\Debug\ThirdDigit1.exe.config
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit1\obj\Debug\ThirdDigit1.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit1\obj\Debug\ThirdDigit1.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit1\bin\Debug\ThirdDigit1.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\ThirdDigit1\bin\Debug\ThirdDigit1.pdb

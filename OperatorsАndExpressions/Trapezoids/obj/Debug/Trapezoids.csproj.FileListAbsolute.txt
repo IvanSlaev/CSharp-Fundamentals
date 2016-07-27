@@ -1,0 +1,7 @@
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\Trapezoids\obj\Debug\Trapezoids.pdb

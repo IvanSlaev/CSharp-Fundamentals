@@ -1,0 +1,6 @@
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\Conductor\bin\Debug\Conductor.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\Conductor\bin\Debug\Conductor.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\Conductor\bin\Debug\Conductor.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\Conductor\obj\Debug\Conductor.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\Conductor\obj\Debug\Conductor.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\MyExamCSharpOne\Conductor\obj\Debug\Conductor.pdb

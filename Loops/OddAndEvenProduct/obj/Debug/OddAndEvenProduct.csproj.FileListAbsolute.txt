@@ -1,0 +1,6 @@
+D:\Dropbox\VS C# projects\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+D:\Dropbox\VS C# projects\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+D:\Dropbox\VS C# projects\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+D:\Dropbox\VS C# projects\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+D:\Dropbox\VS C# projects\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube", "Cube\Cube.csproj", "{998B4EA1-2FA3-491F-8674-C69CED18464B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitsToBits", "BitsToBits\BitsToBits.csproj", "{15A0B6F8-3B60-49E7-A3E9-6DE2566924F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitsToBitsBigString", "BitsToBitsBigString\BitsToBitsBigString.csproj", "{5B2F6792-041B-46FB-9919-37F364AE4835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{998B4EA1-2FA3-491F-8674-C69CED18464B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998B4EA1-2FA3-491F-8674-C69CED18464B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998B4EA1-2FA3-491F-8674-C69CED18464B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998B4EA1-2FA3-491F-8674-C69CED18464B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A0B6F8-3B60-49E7-A3E9-6DE2566924F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A0B6F8-3B60-49E7-A3E9-6DE2566924F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A0B6F8-3B60-49E7-A3E9-6DE2566924F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A0B6F8-3B60-49E7-A3E9-6DE2566924F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2F6792-041B-46FB-9919-37F364AE4835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2F6792-041B-46FB-9919-37F364AE4835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2F6792-041B-46FB-9919-37F364AE4835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2F6792-041B-46FB-9919-37F364AE4835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

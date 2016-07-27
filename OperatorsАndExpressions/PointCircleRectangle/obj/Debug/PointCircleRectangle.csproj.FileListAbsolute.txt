@@ -1,0 +1,12 @@
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PointCircleRectangle\bin\Debug\PointCircleRectangle.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PointCircleRectangle\obj\Debug\PointCircleRectangle.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PointCircleRectangle\obj\Debug\PointCircleRectangle.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\PointCircleRectangle\obj\Debug\PointCircleRectangle.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\PointCircleRectangle\obj\Debug\PointCircleRectangle.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\PointCircleRectangle\obj\Debug\PointCircleRectangle.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\PointCircleRectangle\bin\Debug\PointCircleRectangle.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\PointCircleRectangle\obj\Debug\PointCircleRectangle.csprojResolveAssemblyReference.cache

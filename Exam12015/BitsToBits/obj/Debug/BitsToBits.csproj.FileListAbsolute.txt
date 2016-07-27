@@ -1,0 +1,6 @@
+D:\Dropbox\VS C# projects\Exam12015\BitsToBits\bin\Debug\BitsToBits.exe.config
+D:\Dropbox\VS C# projects\Exam12015\BitsToBits\bin\Debug\BitsToBits.exe
+D:\Dropbox\VS C# projects\Exam12015\BitsToBits\bin\Debug\BitsToBits.pdb
+D:\Dropbox\VS C# projects\Exam12015\BitsToBits\obj\Debug\BitsToBits.exe
+D:\Dropbox\VS C# projects\Exam12015\BitsToBits\obj\Debug\BitsToBits.pdb
+D:\Dropbox\VS C# projects\Exam12015\BitsToBits\obj\Debug\BitsToBits.csprojResolveAssemblyReference.cache

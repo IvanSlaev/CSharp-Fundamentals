@@ -1,0 +1,5 @@
+E:\Dropbox\VS C# projects\ConditionalStatements\PlayCard\bin\Debug\PlayCard.exe.config
+E:\Dropbox\VS C# projects\ConditionalStatements\PlayCard\bin\Debug\PlayCard.exe
+E:\Dropbox\VS C# projects\ConditionalStatements\PlayCard\bin\Debug\PlayCard.pdb
+E:\Dropbox\VS C# projects\ConditionalStatements\PlayCard\obj\Debug\PlayCard.exe
+E:\Dropbox\VS C# projects\ConditionalStatements\PlayCard\obj\Debug\PlayCard.pdb

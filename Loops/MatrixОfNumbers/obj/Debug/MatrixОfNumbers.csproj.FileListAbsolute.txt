@@ -1,0 +1,12 @@
+E:\Dropbox\VS C# projects\Loops\MatrixОfNumbers\bin\Debug\MatrixОfNumbers.exe.config
+E:\Dropbox\VS C# projects\Loops\MatrixОfNumbers\bin\Debug\MatrixОfNumbers.exe
+E:\Dropbox\VS C# projects\Loops\MatrixОfNumbers\bin\Debug\MatrixОfNumbers.pdb
+E:\Dropbox\VS C# projects\Loops\MatrixОfNumbers\obj\Debug\MatrixОfNumbers.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\Loops\MatrixОfNumbers\obj\Debug\MatrixОfNumbers.exe
+E:\Dropbox\VS C# projects\Loops\MatrixОfNumbers\obj\Debug\MatrixОfNumbers.pdb
+D:\Dropbox\VS C# projects\Loops\MatrixОfNumbers\bin\Debug\MatrixОfNumbers.exe.config
+D:\Dropbox\VS C# projects\Loops\MatrixОfNumbers\bin\Debug\MatrixОfNumbers.exe
+D:\Dropbox\VS C# projects\Loops\MatrixОfNumbers\bin\Debug\MatrixОfNumbers.pdb
+D:\Dropbox\VS C# projects\Loops\MatrixОfNumbers\obj\Debug\MatrixОfNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\Loops\MatrixОfNumbers\obj\Debug\MatrixОfNumbers.exe
+D:\Dropbox\VS C# projects\Loops\MatrixОfNumbers\obj\Debug\MatrixОfNumbers.pdb

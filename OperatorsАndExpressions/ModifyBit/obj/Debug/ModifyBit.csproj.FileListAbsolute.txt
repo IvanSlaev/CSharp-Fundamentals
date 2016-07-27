@@ -1,0 +1,12 @@
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\ModifyBit\bin\Debug\ModifyBit.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\ModifyBit\bin\Debug\ModifyBit.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\ModifyBit\bin\Debug\ModifyBit.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\ModifyBit\obj\Debug\ModifyBit.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\ModifyBit\obj\Debug\ModifyBit.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\ModifyBit\obj\Debug\ModifyBit.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\ModifyBit\bin\Debug\ModifyBit.exe.config
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\ModifyBit\bin\Debug\ModifyBit.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\ModifyBit\bin\Debug\ModifyBit.pdb
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\ModifyBit\obj\Debug\ModifyBit.csprojResolveAssemblyReference.cache
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\ModifyBit\obj\Debug\ModifyBit.exe
+C:\Users\ivan_\Documents\Dropbox\VS C# projects\OperatorsАndExpressions\ModifyBit\obj\Debug\ModifyBit.pdb

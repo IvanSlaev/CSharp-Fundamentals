@@ -1,0 +1,12 @@
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits\bin\Debug\FourDigits.exe.config
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits\bin\Debug\FourDigits.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits\bin\Debug\FourDigits.pdb
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits\obj\Debug\FourDigits.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits\obj\Debug\FourDigits.exe
+E:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits\obj\Debug\FourDigits.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits\bin\Debug\FourDigits.exe.config
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits\obj\Debug\FourDigits.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits\obj\Debug\FourDigits.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits\bin\Debug\FourDigits.exe
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits\bin\Debug\FourDigits.pdb
+D:\Dropbox\VS C# projects\OperatorsАndExpressions\FourDigits\obj\Debug\FourDigits.csprojResolveAssemblyReference.cache

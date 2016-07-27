@@ -1,0 +1,5 @@
+D:\Dropbox\VS C# projects\DataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+D:\Dropbox\VS C# projects\DataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe
+D:\Dropbox\VS C# projects\DataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.pdb
+D:\Dropbox\VS C# projects\DataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.exe
+D:\Dropbox\VS C# projects\DataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.pdb

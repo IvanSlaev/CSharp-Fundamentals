@@ -1,0 +1,6 @@
+D:\Dropbox\VS C# projects\Loops\Calculate3!\bin\Debug\Calculate3!.exe.config
+D:\Dropbox\VS C# projects\Loops\Calculate3!\bin\Debug\Calculate3!.exe
+D:\Dropbox\VS C# projects\Loops\Calculate3!\bin\Debug\Calculate3!.pdb
+D:\Dropbox\VS C# projects\Loops\Calculate3!\obj\Debug\Calculate3!.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS C# projects\Loops\Calculate3!\obj\Debug\Calculate3!.exe
+D:\Dropbox\VS C# projects\Loops\Calculate3!\obj\Debug\Calculate3!.pdb
